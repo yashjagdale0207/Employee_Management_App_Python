@@ -54,9 +54,19 @@ I have seamlessly integrated Python with a MySQL database to create a robust Emp
 
 ### Instructions for Use:
 
-Certainly! Let's focus on steps 4 and beyond, along with additional details beyond GitHub:
 
 ### Instructions for Use:
+
+1. **Setting up the MySQL Database:**
+   - Establish a MySQL database named 'abcltd'.
+   - Utilize the provided credentials (`root` as the username and `Yash@789` as the password) for establishing a database connection.
+
+2. **Installation and Dependencies:**
+   - Install the required libraries using the command: `pip install mysql-connector-python kivy`.
+
+3. **Running the Application:**
+   - Execute the Python script to launch the application.
+   - The GUI will be presented with intuitive options for effective employee management
 
 4. **Running the Application:**
    - Execute the Python script (`employee_management.py`) to launch the application.
