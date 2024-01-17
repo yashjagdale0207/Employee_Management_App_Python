@@ -5,6 +5,9 @@
 
 I have seamlessly integrated Python with a MySQL database to create a robust Employee Management application. This application employs the Kivy framework for building an intuitive graphical user interface (GUI) that facilitates various employee-related actions.
 
+![Screenshot 2024-01-11 155226](https://github.com/yashjagdale0207/Employee_Management_App_Python/assets/145290827/c299463a-2092-4faf-b051-c0adfe744bfe)
+
+
 ### Key Features and Components:
 
 1. **Database Connection:**
