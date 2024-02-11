@@ -15,7 +15,7 @@ from kivy.core.window import Window
 connection = my.connect(
     host='localhost',
     user='root',
-    password='Yash@789',
+    password='rootpass',
     database='abcltd'
 )
 cursor = connection.cursor()
